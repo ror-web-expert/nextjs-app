@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <title>my first app</title>
+      <title>my APP app</title>
       <body className={inter.className}>{children}</body>
     </html>
   )
