@@ -6,7 +6,7 @@ export default function Page() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
      <h1> helo dashboard page</h1>
      <Link href="dashboard/blogs">Blogs</Link>
-     <Link href='dashboard/settings'>Setting</Link>
+     <Link href='dashboard/settings'>Settings</Link>
      <Link href="components">Compnents</Link>
     </main>
   )
