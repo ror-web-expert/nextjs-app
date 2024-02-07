@@ -10,7 +10,7 @@ export default function DashboardLayout({
     const pathname = usePathname();
     return (
       <section>
-        <h1>dashboard layout</h1>
+        <h1>dashboard</h1>
         <nav>
           <Link href="/dashboard">Back to Dashboard </Link>
           <ul>
